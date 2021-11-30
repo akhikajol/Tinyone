@@ -1,0 +1,31 @@
+pts-regular
+ptsans-bold
+fontasome 
+helevticaneue bold
+color==ash....#555555
+
+ yellow..#FCDB00
+
+black..#010101
+
+font size===
+
+xxl-xl-lg      md       sm-color
+header font 
+  22            22          20
+ 
+
+padding header
+20            20            10
+
+slider  padding
+ 100         100           50-70
+
+
+ <i class="fas fa-code"></i>
+ <i class="far fa-envelope"></i>
+ feature padding 
+ 100          80            50
+ 120          100           70
+
+
