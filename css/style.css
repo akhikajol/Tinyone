@@ -19,7 +19,10 @@ header{
 .c-nav{
 
 }
-.t-btn{}
+.t-btn{
+color: #010101 !important;
+}
+
 .logo{
 
 }
